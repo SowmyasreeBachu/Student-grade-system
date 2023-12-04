@@ -17,6 +17,13 @@ public class Project {
 
         String name = Name.next();
 
+         Scanner Course = new Scanner(System.in);
+
+        System.out.println(" Enter Student Name: \n");
+
+        String course = Course.next();
+        
+
         Scanner homeWork = new Scanner(System.in);
 
         System.out.println("\n Enter Homework One marks: \n");
