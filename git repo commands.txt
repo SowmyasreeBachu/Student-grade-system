@@ -1,0 +1,14 @@
+git repo link:
+
+https://github.com/SowmyasreeBachu/Student-grade-system.git
+
+github commands to push th code into repo:
+
+1. git init (Create an empty Git repository or reinitialize an existing one)
+2. git add . (Add file contents to the index)
+3. git status (Show the working tree status)
+4. git commit -m " commit message" (Record changes to the repository)
+5. git remote add origin "repo URL" (Repo URL to access the github repo)
+6. git push origin -u master ( Update remote repo along with associated objects)
+
+

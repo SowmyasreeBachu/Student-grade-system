@@ -1,0 +1,88 @@
+https://github.com/SowmyasreeBachu/Student-grade-system
+
+Student Grade Calculation Output :
+
+
+C:\Users\Sri naveen\Desktop\Term Project>javac Project.java
+
+C:\Users\Sri naveen\Desktop\Term Project>java Project
+
+ Team members: Sowmya Sree , Sri Ram
+
+ Enter Student Name:
+
+Vaishu
+
+ Enter Homework One marks:
+
+56
+
+ Enter Homework Two marks:
+
+90
+
+ Enter Homework Three marks:
+
+89
+
+ Enter Homework Four marks:
+
+99
+
+ Enter Homework Five marks:
+
+70
+
+ Enter Homework Six marks:
+
+89
+
+ Enter Homework Seven marks:
+
+77
+
+ Enter Homework Eight marks:
+
+90
+
+ Average Homework marks are:
+82.5
+
+ Enter Quiz One marks:
+
+78
+
+ Enter quiz Two marks:
+
+88
+
+ Enter Quiz Three marks:
+
+89
+
+ Enter Quiz Four marks:
+
+82
+
+ Enter Quiz Five marks:
+
+45
+
+  Average quiz marks are:
+76.4
+
+ Enter Mid-Term Exam marks:
+
+89
+
+ Enter Final Exam marks:
+
+99
+
+ Enter Project marks:
+
+92
+
+  Total  marks :
+125.525
+ Your test grade is: D
